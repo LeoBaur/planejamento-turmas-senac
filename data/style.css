@@ -1,0 +1,19 @@
+body {
+    background-color: #ffffff;
+}
+
+h1 {
+    color: #F37021;
+}
+
+section[data-testid="stSidebar"] {
+    background-color: #003A8F;
+}
+
+section[data-testid="stSidebar"] * {
+    color: white;
+}
+
+[data-testid="stDataFrame"] {
+    border-radius: 10px;
+}
